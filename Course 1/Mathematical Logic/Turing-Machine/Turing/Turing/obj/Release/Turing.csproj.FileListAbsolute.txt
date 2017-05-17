@@ -1,0 +1,5 @@
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\bin\Release\Turing.exe.config
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\bin\Release\Turing.exe
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\bin\Release\Turing.pdb
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\obj\Release\Turing.exe
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\obj\Release\Turing.pdb

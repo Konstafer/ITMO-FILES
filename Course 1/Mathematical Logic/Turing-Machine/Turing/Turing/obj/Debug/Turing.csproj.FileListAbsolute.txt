@@ -1,0 +1,12 @@
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\bin\Debug\Turing.exe.config
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\bin\Debug\Turing.exe
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\bin\Debug\Turing.pdb
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\obj\Debug\Turing.csprojResolveAssemblyReference.cache
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\obj\Debug\Turing.exe
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\TuringMachine\Turing-Machine\Turing\Turing\obj\Debug\Turing.pdb
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\Turing_Machine\Turing\Turing\bin\Debug\Turing.exe.config
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\Turing_Machine\Turing\Turing\obj\Debug\Turing.exe
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\Turing_Machine\Turing\Turing\obj\Debug\Turing.pdb
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\Turing_Machine\Turing\Turing\bin\Debug\Turing.exe
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\Turing_Machine\Turing\Turing\bin\Debug\Turing.pdb
+C:\Users\kpetk\Documents\Visual Studio 2015\Projects\Turing_Machine\Turing\Turing\obj\Debug\Turing.csprojResolveAssemblyReference.cache
