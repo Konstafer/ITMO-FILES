@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Result</title>
+	<style type="text/css">
+		body {
+		background-color: #212121;
+		}
+		#header {
+			color: #ffffff;
+			background-color: #00a293;
+			box-shadow: 0 0 10px rgba(0,0,0,0.5);
+			font-style: italic;
+			font-size: medium;
+			font-family: monospace;
+		}
+		#inputs {
+			font-style: italic;
+			font-size: xx-large;
+			font-family: monospace;
+			color: #ffffff;
+			margin-top: 70px;
+
+		}
+		.td {
+			width: 200px;
+			border: 1px  solid #ffffff;
+		}
+		#time {
+			font-style: italic;
+			font-size: xx-large;
+			font-family: monospace;
+			color: #ffffff;
+		}
+		#result {
+			font-style: italic;
+			font-size: xx-large;
+			font-family: monospace;
+			color: #ffffff;
+		}
+		.buttons{
+			width:100Px;
+			height:50Px;
+			background-color: #00a293;
+			border-color: #7e8c8a;
+			color: #ffffff; 
+			font-size: medium;
+			font-family: monospace;
+			
+		}
+
+	</style>
+</head>
+<body>
+	 
+		<table id="main">
+			<!-- header layot -->
+			<tr>
+				<table id="header" width="100%">
+
+					<td align="center" width="60%" nowrap> 
+						<h1>Petkevich Konstantin Viacheslavovich</h1>
+					</td>
+
+					<td align="center">
+						<table>
+						<tr><td align="center"><h3>Group<br><h2>P3218</h2></h3></td></tr>
+						</table>
+					</td>
+				
+					<td align="center">
+						<table>
+						<tr><td align="center"><h3>Variant<br><h2>2666</h2></h3></td></tr>
+						</table>
+					</td>
+
+				</table>
+			</tr>
+			<!-- body layot -->
+			<tr>
+				<table id="inputs" width="50%" align="center">
+					<tr>
+						<td class="td" align="center"><span>X</span></td>
+						<td class="td" align="center"><span>Y</span></td>
+						<td class="td" align="center"><span>R</span></td>
+					</tr>
+					<tr>
+						<td class="td" align="center"><span><?php echo $x?></span></td>
+						<td class="td" align="center"><span><?php echo $y?></span></td>
+						<td class="td" align="center"><span><?php echo $r?></span></td>
+					</tr>
+				</table>
+
+			<tr>
+				<table id="result" width="50%" align="center">
+					<tr>
+						<td nowrap align="center"> Is point in shape? <?php echo (isPointInsideShape($x, $y, $r)? "-True" : "-False") ?></td>
+        			</tr>
+			</tr>
+			
+			<tr>
+				<table id="time" width="50%" align="center">
+					<tr>
+						<td nowrap align="center"> <?php echo $startupTime->format('Y-m-d H:i:s') ?></td>
+        			</tr>
+        			<tr>
+						<td nowrap align="center"> <?php echo $startupTime->diff(new DateTime())->format('%s seconds') ?></td>
+        			</tr>
+				</table>
+			</tr>
+			<tr>
+				<table align="center">
+							<!-- <tr><td><input class="buttons" type="submit" value="Back"></td></tr> -->
+							<tr><td><button onclick="location.href = 'main.html';" class="buttons">Back</button></td></tr>
+				</table>
+			</tr>
+			</tr>
+		</table>
+	
+</body>
+</html>

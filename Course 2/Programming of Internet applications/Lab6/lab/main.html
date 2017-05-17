@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<script type="text/javascript" src="jquery-3.2.1.js" charset="utf-8"></script>
+	<script src="notify.js"></script>
+	<title>Lab6</title>
+	<style>
+		body {
+		background-color: #212121;
+		}
+		#header {
+			color: #ffffff;
+			background-color: #00a293;
+			box-shadow: 0 0 10px rgba(0,0,0,0.5);
+			font-style: italic;
+			font-size: medium;
+			font-family: monospace;
+		}
+		#graph{
+			padding-left: 70px;
+			background: #e9f9f8;
+			"border: 100px double #333; 
+			border-collapse: separate;
+			box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		}
+		#selections{
+			width: 100%;
+			border-spacing: 0px 90px;
+			color: #ffffff;
+			font-size: x-large;
+			font-family: monospace;
+		}
+		#actions{
+			border-spacing: 0px 70px;
+
+		}
+		.buttons{
+			display:block;
+			width:100Px;
+			height:50Px;
+			background-color: #00a293;
+			border-color: #7e8c8a;
+			color: #ffffff; 
+			font-size: medium;
+			font-family: monospace;
+			
+		}
+		.selections{
+			color: #ffffff; 
+			background-color: #00a293;
+			border-color: #7e8c8a;
+			font-size: medium;
+			width: 50px;
+    		height: 25px;
+		}
+
+	</style>
+</head>
+
+<body>
+	<form action="result.php"  method="post" id="sendForm" > 
+		<table id="main">
+			<!-- header layot -->
+			<tr>
+				<table id="header" width="100%">
+
+					<td align="center" width="60%" nowrap> 
+						<h1>Petkevich Konstantin Viacheslavovich</h1>
+					</td>
+
+					<td align="center">
+						<table>
+						<tr><td align="center"><h3>Group<br><h2>P3218</h2></h3></td></tr>
+						</table>
+					</td>
+				
+					<td align="center">
+						<table>
+						<tr><td align="center"><h3>Variant<br><h2>2666</h2></h3></td></tr>
+						</table>
+					</td>
+
+				</table>
+			</tr>
+			<!-- body layot -->
+			<tr>
+				<table width="100%" style="margin-top: 15px;">
+					<!-- selections layot -->
+					<td width="30%">
+						<table id="selections">
+					
+							<tr>
+								<th>Select X:</th>
+								<td align="center">
+									<select class="selections" name="x">
+										<option value="-4">-4</option>
+										<option value="-3">-3</option>
+										<option value="-2">-2</option>
+										<option value="-1">-1</option>
+										<option value="0">0</option>
+										<option value="1">1</option>
+										<option value="2">2</option>
+										<option value="3">3</option>
+										<option value="4">4</option>
+									</select>
+								</td>
+							</tr>
+							
+							<tr>
+								<th>Select Y:</th>
+								<td align="center"><input class="selections" type="text" id="y" name="y"></td>
+							</tr>
+							
+							<tr>
+							<th>Select R:</th>
+								<td align="center"><input class="selections" id="r" type="text" name="r"></td>
+							</tr>
+
+						</table>
+					</td>
+					<!-- graph layot -->
+					<td id="graph" width="40%" align="center">
+						<img src="1.png" width="600" height="462"/>
+					</td>
+					<!-- actions layot -->
+					<td width="30%" align="center">
+						<table id="actions">
+							<tr><td><input type="button" class="buttons" id="send" value="Check"></td></tr>
+							<tr><td><input class="buttons" type="reset" value="Reset"></td></tr>
+						</table>
+					</td>
+				</table>
+			</tr>	
+		</table>
+	</form>
+<script type="text/javascript" src="sc.js"></script>
+</body>
+</html>
