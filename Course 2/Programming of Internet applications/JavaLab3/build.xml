@@ -1,0 +1,129 @@
+<project name="JavaLab3" default="build" basedir=".">
+  <property file="build.properties"/>
+
+  <target name="make.dirs" description="Create required dirs">
+    <echo>Creating dirs...</echo>
+    <mkdir dir="${build.dir}"/>
+    <mkdir dir="${build.classes.java}"/>
+  </target>
+
+  <target name="compile" depends="make.dirs" description="Compile the files" >
+    <echo>Compiling...</echo>
+    <javac includeantruntime="false" destdir="${build.classes.java}">
+      <src path="${src.java}"/>
+    </javac>
+  </target>
+
+  <target name="build" depends="compile" description="Compile the files and pack them in JAR archive" >
+    <echo>Building the project...</echo>
+    <jar destfile="${build.jar}" basedir="${build.classes.java}">
+      <manifest>
+        <attribute name="Main-Class" value="Lab3.Work3"/>
+        <attribute name="Created-By" value="Konstantin"/>
+      </manifest>
+    </jar>
+  </target>
+
+  <target name="run" depends="build">
+    <echo>Running application...</echo>
+    <java jar="${build.jar}" fork="true"/>
+  </target>
+
+  <target name="clean" description="Deleting excess files">
+    <echo>Deleting excess files...</echo>
+    <delete dir="${build.classes.java}"/>
+  </target>
+
+  <target name="make.test.dirs" description="Create dirs for tests">
+    <echo>Creating dirs for tests...</echo>
+    <mkdir dir="${build.classes.test}"/>
+  </target>
+
+  <target name="compile.tests" depends="build, make.test.dirs">
+    <echo>Compiling tests...</echo>
+    <javac includeantruntime="false" destdir="${build.classes.test}">
+      <src path="${src.test}"/>
+      <classpath>
+        <pathelement location="${junit}"/>
+        <pathelement location="${build.classes.java}"/>
+      </classpath>
+    </javac>
+  </target>
+
+  <target name="test" description="Run tests" depends="build, compile.tests">
+    <echo>Running the tests...</echo>
+    <junit printsummary="true" haltonerror="yes" haltonfailure="yes" fork="yes">
+      <formatter type="plain" usefile="false"/>
+      <test name="test.MyTest"/>
+      <classpath>
+        <pathelement location="${junit}"/>
+        <pathelement location="${build.classes.java}"/>
+        <pathelement location="${build.classes.test}"/>
+        <pathelement location="${hamcrest}"/>
+      </classpath>
+    </junit>
+  </target>
+
+  <target name="xml" description="Validate all xml files in project" >
+    <echo>Validating xmls...</echo>
+    <xmlvalidate failonerror="false" lenient="true">
+      <fileset dir="." includes="**/*.xml"/>
+      <attribute name="http://xml.org/sax/features/validation" value="true"/>
+      <attribute name="http://apache.org/xml/features/validation/schema"  value="true"/>
+      <attribute name="http://xml.org/sax/features/namespaces" value="true"/>
+    </xmlvalidate>
+  </target>
+
+  <target name="jar" description="Build project">
+    <jar destfile="${dfile}" basedir="${bdir}">
+      <manifest>
+        <attribute name="Main-Class" value="${mainClass}" />
+      </manifest>
+    </jar>
+  </target>
+
+  <target name="team">
+    <echo>Rollback 'till 1st rev if compilation failed...</echo>
+    <exec executable="svn">
+      <arg value="update"/>
+    </exec>
+
+    <exec executable="svn">
+      <arg value="update"/>
+      <arg value="-r"/>
+      <arg value="PREV"/>
+    </exec>
+    <antcall target="jar">
+      <param name = "dfile" value = "${build.dir}/lab3r-1"/>
+      <param name = "bdir" value = "${classes.dir}"/>
+    </antcall>
+
+    <exec executable="svn">
+      <arg value="update"/>
+      <arg value="-r"/>
+      <arg value="PREV"/>
+    </exec>
+    <antcall target="jar">
+      <param name = "dfile" value = "${build.dir}/lab3r-2"/>
+      <param name = "bdir" value = "${classes.dir}"/>
+    </antcall>
+
+    <exec executable="svn">
+      <arg value="update"/>
+      <arg value="-r"/>
+      <arg value="PREV"/>
+    </exec>
+
+    <antcall target="jar">
+      <param name = "dfile" value = "${build.dir}/lab3r-3"/>
+      <param name = "bdir" value = "${classes.dir}"/>
+    </antcall>
+
+    <exec executable="svn">
+      <arg value="update"/>
+    </exec>
+  </target>
+
+
+
+</project>
