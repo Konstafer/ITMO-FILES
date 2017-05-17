@@ -1,0 +1,12 @@
+c:\users\константин\documents\visual studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\bin\Debug\lab2 cs !AGAIN!.exe.config
+C:\Users\Константин\documents\visual studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\bin\Debug\lab2 cs !AGAIN!.exe
+C:\Users\Константин\documents\visual studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\bin\Debug\lab2 cs !AGAIN!.pdb
+C:\Users\Константин\documents\visual studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\obj\Debug\lab2 cs !AGAIN!.csprojResolveAssemblyReference.cache
+C:\Users\Константин\documents\visual studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\obj\Debug\lab2 cs !AGAIN!.exe
+C:\Users\Константин\documents\visual studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\obj\Debug\lab2 cs !AGAIN!.pdb
+C:\Users\Konstantin\Documents\Visual Studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\bin\Debug\lab2 cs !AGAIN!.exe.config
+C:\Users\Konstantin\Documents\Visual Studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\obj\Debug\lab2 cs !AGAIN!.exe
+C:\Users\Konstantin\Documents\Visual Studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\obj\Debug\lab2 cs !AGAIN!.pdb
+C:\Users\Konstantin\Documents\Visual Studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\bin\Debug\lab2 cs !AGAIN!.exe
+C:\Users\Konstantin\Documents\Visual Studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\bin\Debug\lab2 cs !AGAIN!.pdb
+C:\Users\Konstantin\Documents\Visual Studio 2015\Projects\lab2 cs !AGAIN!\lab2 cs !AGAIN!\obj\Debug\lab2 cs !AGAIN!.csprojResolveAssemblyReference.cache
