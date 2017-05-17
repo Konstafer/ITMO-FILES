@@ -1,0 +1,69 @@
+ORG	7FF
+	WORD	07FE
+
+ORG	200
+X:	WORD	0002
+I:	WORD	FFF6
+BEGIN:	CLA
+	ADD	X
+	JSR	FUNC
+	HLT
+
+ORG	300
+TEMP1:	WORD	0000	# Аккумулятор
+TEMP2:	WORD	0000	# Бит C
+FUNC:	WORD	0000
+	# Сохранить А и C в TEMP1 и TEMP2
+	MOV	TEMP1
+	ROL
+	MOV	TEMP2
+
+	# (7FF) - 1 > 7FF
+	CLA
+	ADD	7FF
+	DEC
+	MOV	7FF
+
+	# (CK) > (7FF)
+	CLA
+	ADD	FUNC
+	MOV	(7FF)
+	
+	# Восстановить А
+	CLA
+	ADD TEMP2
+	ROR
+	CLA
+	CMA
+	AND TEMP1
+
+MAIN:	ROL
+
+CHECK:	ISZ	I
+	JSR	FUNC
+
+RET:	# Сохранить А и C в TEMP1 и TEMP2
+	MOV	TEMP1
+	ROL
+	MOV	TEMP2
+
+	# (7FF) > CK
+	CLA
+	ADD	(7FF)
+	MOV	FUNC
+	
+	# (7FF) + 1 > 7FF
+	CLA	
+	ADD	7FF
+	INC
+	MOV	7FF
+	
+	# Восстановить А
+	CLA
+	ADD TEMP2
+	ROR
+	CLA
+	CMA
+	AND TEMP1
+
+	BR	(FUNC)
