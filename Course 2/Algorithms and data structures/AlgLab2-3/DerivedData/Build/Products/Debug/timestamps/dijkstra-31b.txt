@@ -1,0 +1,357 @@
+vertices amount: 1
+Shortest path: none
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 101
+Shortest path: {0} -- {11} -- {96} -- {81} -- {24} -- {57} -- {100} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 201
+Shortest path: {0} -- {60} -- {100} -- {200} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 301
+Shortest path: {0} -- {58} -- {288} -- {51} -- {227} -- {234} -- {46} -- {300} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 401
+Shortest path: {0} -- {313} -- {145} -- {167} -- {36} -- {269} -- {400} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 501
+Shortest path: {0} -- {309} -- {64} -- {468} -- {388} -- {113} -- {177} -- {15} -- {500} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 601
+Shortest path: {0} -- {554} -- {228} -- {456} -- {400} -- {174} -- {600} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 701
+Shortest path: {0} -- {522} -- {73} -- {461} -- {19} -- {271} -- {371} -- {700} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 801
+Shortest path: {0} -- {188} -- {51} -- {303} -- {798} -- {547} -- {163} -- {225} -- {800} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 901
+Shortest path: {0} -- {305} -- {652} -- {22} -- {28} -- {900} -- 
+Graph build time: 1 seconds;
+Execution time: 0 seconds;
+vertices amount: 1001
+Shortest path: {0} -- {676} -- {362} -- {179} -- {225} -- {1000} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 1101
+Shortest path: {0} -- {617} -- {514} -- {1100} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 1201
+Shortest path: {0} -- {738} -- {371} -- {679} -- {734} -- {536} -- {1200} -- 
+Graph build time: 1 seconds;
+Execution time: 0 seconds;
+vertices amount: 1301
+Shortest path: {0} -- {439} -- {56} -- {607} -- {96} -- {1300} -- 
+Graph build time: 0 seconds;
+Execution time: 1 seconds;
+vertices amount: 1401
+Shortest path: {0} -- {1194} -- {1400} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+vertices amount: 1501
+Shortest path: {0} -- {158} -- {802} -- {129} -- {240} -- {89} -- {1075} -- {581} -- {1500} -- 
+Graph build time: 1 seconds;
+Execution time: 0 seconds;
+vertices amount: 1601
+Shortest path: {0} -- {1194} -- {558} -- {241} -- {546} -- {453} -- {368} -- {687} -- {86} -- {238} -- {240} -- {1600} -- 
+Graph build time: 1 seconds;
+Execution time: 0 seconds;
+vertices amount: 1701
+Shortest path: {0} -- {682} -- {596} -- {619} -- {1643} -- {695} -- {1700} -- 
+Graph build time: 0 seconds;
+Execution time: 1 seconds;
+vertices amount: 1801
+Shortest path: {0} -- {1557} -- {117} -- {746} -- {45} -- {848} -- {1537} -- {1800} -- 
+Graph build time: 1 seconds;
+Execution time: 1 seconds;
+vertices amount: 1901
+Shortest path: {0} -- {1741} -- {360} -- {1900} -- 
+Graph build time: 0 seconds;
+Execution time: 1 seconds;
+vertices amount: 2001
+Shortest path: {0} -- {1245} -- {1014} -- {498} -- {1945} -- {885} -- {2000} -- 
+Graph build time: 1 seconds;
+Execution time: 0 seconds;
+vertices amount: 2101
+Shortest path: {0} -- {7} -- {865} -- {371} -- {482} -- {494} -- {64} -- {788} -- {1567} -- {2100} -- 
+Graph build time: 1 seconds;
+Execution time: 0 seconds;
+vertices amount: 2201
+Shortest path: {0} -- {1876} -- {1198} -- {1918} -- {877} -- {2200} -- 
+Graph build time: 1 seconds;
+Execution time: 1 seconds;
+vertices amount: 2301
+Shortest path: {0} -- {622} -- {244} -- {1101} -- {2064} -- {137} -- {1722} -- {2300} -- 
+Graph build time: 2 seconds;
+Execution time: 0 seconds;
+vertices amount: 2401
+Shortest path: {0} -- {1591} -- {2010} -- {1916} -- {1183} -- {1705} -- {2400} -- 
+Graph build time: 1 seconds;
+Execution time: 1 seconds;
+vertices amount: 2501
+Shortest path: {0} -- {1543} -- {1212} -- {1542} -- {901} -- {2500} -- 
+Graph build time: 2 seconds;
+Execution time: 0 seconds;
+vertices amount: 2601
+Shortest path: {0} -- {5} -- {2125} -- {2144} -- {2475} -- {2584} -- {298} -- {2056} -- {2549} -- {2600} -- 
+Graph build time: 1 seconds;
+Execution time: 1 seconds;
+vertices amount: 2701
+Shortest path: {0} -- {2473} -- {1226} -- {1159} -- {93} -- {2397} -- {2274} -- {2092} -- {778} -- {598} -- {2700} -- 
+Graph build time: 2 seconds;
+Execution time: 1 seconds;
+vertices amount: 2801
+Shortest path: {0} -- {2338} -- {831} -- {2476} -- {1280} -- {290} -- {1369} -- {458} -- {1534} -- {2075} -- {2800} -- 
+Graph build time: 2 seconds;
+Execution time: 0 seconds;
+vertices amount: 2901
+Shortest path: {0} -- {537} -- {163} -- {2269} -- {869} -- {1050} -- {81} -- {2900} -- 
+Graph build time: 3 seconds;
+Execution time: 1 seconds;
+vertices amount: 3001
+Shortest path: {0} -- {1739} -- {3000} -- 
+Graph build time: 2 seconds;
+Execution time: 0 seconds;
+vertices amount: 3101
+Shortest path: {0} -- {2853} -- {600} -- {535} -- {74} -- {1640} -- {447} -- {2171} -- {2329} -- {3100} -- 
+Graph build time: 3 seconds;
+Execution time: 1 seconds;
+vertices amount: 3201
+Shortest path: {0} -- {848} -- {418} -- {3070} -- {366} -- {2739} -- {971} -- {3142} -- {1584} -- {3200} -- 
+Graph build time: 2 seconds;
+Execution time: 2 seconds;
+vertices amount: 3301
+Shortest path: {0} -- {759} -- {1846} -- {1941} -- {780} -- {3177} -- {1286} -- {1274} -- {1810} -- {3300} -- 
+Graph build time: 3 seconds;
+Execution time: 0 seconds;
+vertices amount: 3401
+Shortest path: {0} -- {3059} -- {812} -- {801} -- {216} -- {893} -- {2337} -- {3400} -- 
+Graph build time: 3 seconds;
+Execution time: 1 seconds;
+vertices amount: 3501
+Shortest path: {0} -- {3121} -- {3262} -- {238} -- {3500} -- 
+Graph build time: 3 seconds;
+Execution time: 0 seconds;
+vertices amount: 3601
+Shortest path: {0} -- {545} -- {1142} -- {1290} -- {2559} -- {847} -- {3600} -- 
+Graph build time: 3 seconds;
+Execution time: 1 seconds;
+vertices amount: 3701
+Shortest path: {0} -- {1545} -- {303} -- {2364} -- {319} -- {1881} -- {1653} -- {3700} -- 
+Graph build time: 4 seconds;
+Execution time: 1 seconds;
+vertices amount: 3801
+Shortest path: {0} -- {1680} -- {2758} -- {2110} -- {575} -- {3303} -- {3800} -- 
+Graph build time: 3 seconds;
+Execution time: 4 seconds;
+vertices amount: 3901
+Shortest path: {0} -- {1676} -- {2107} -- {978} -- {1425} -- {1977} -- {2520} -- {3900} -- 
+Graph build time: 4 seconds;
+Execution time: 2 seconds;
+vertices amount: 4001
+Shortest path: {0} -- {148} -- {216} -- {3847} -- {2598} -- {683} -- {2299} -- {2144} -- {3178} -- {4000} -- 
+Graph build time: 5 seconds;
+Execution time: 2 seconds;
+vertices amount: 4101
+Shortest path: {0} -- {1493} -- {2572} -- {3155} -- {475} -- {176} -- {399} -- {960} -- {1943} -- {1487} -- {3684} -- {4100} -- 
+Graph build time: 5 seconds;
+Execution time: 3 seconds;
+vertices amount: 4201
+Shortest path: {0} -- {2519} -- {1464} -- {3393} -- {3874} -- {201} -- {532} -- {4140} -- {4200} -- 
+Graph build time: 5 seconds;
+Execution time: 2 seconds;
+vertices amount: 4301
+Shortest path: {0} -- {582} -- {3998} -- {2071} -- {3455} -- {894} -- {4300} -- 
+Graph build time: 5 seconds;
+Execution time: 0 seconds;
+vertices amount: 4401
+Shortest path: {0} -- {1020} -- {1787} -- {1067} -- {3638} -- {2399} -- {4400} -- 
+Graph build time: 5 seconds;
+Execution time: 4 seconds;
+vertices amount: 4501
+Shortest path: {0} -- {93} -- {3967} -- {1958} -- {4500} -- 
+Graph build time: 5 seconds;
+Execution time: 1 seconds;
+vertices amount: 4601
+Shortest path: {0} -- {1902} -- {1630} -- {1709} -- {2976} -- {3318} -- {722} -- {4600} -- 
+Graph build time: 6 seconds;
+Execution time: 1 seconds;
+vertices amount: 4701
+Shortest path: {0} -- {1060} -- {1764} -- {3343} -- {763} -- {3610} -- {1420} -- {1949} -- {4700} -- 
+Graph build time: 6 seconds;
+Execution time: 5 seconds;
+vertices amount: 4801
+Shortest path: {0} -- {912} -- {4508} -- {2908} -- {2931} -- {2749} -- {2897} -- {3267} -- {4145} -- {1213} -- {4800} -- 
+Graph build time: 6 seconds;
+Execution time: 0 seconds;
+vertices amount: 4901
+Shortest path: {0} -- {4705} -- {1087} -- {4504} -- {3038} -- {2931} -- {4900} -- 
+Graph build time: 7 seconds;
+Execution time: 2 seconds;
+vertices amount: 5001
+Shortest path: {0} -- {4791} -- {4287} -- {1382} -- {3457} -- {942} -- {201} -- {2703} -- {535} -- {3349} -- {1586} -- {1517} -- {3499} -- {1233} -- {4786} -- {2063} -- {5000} -- 
+Graph build time: 7 seconds;
+Execution time: 4 seconds;
+vertices amount: 5101
+Shortest path: {0} -- {3289} -- {3237} -- {2352} -- {3810} -- {1633} -- {3349} -- {5100} -- 
+Graph build time: 7 seconds;
+Execution time: 4 seconds;
+vertices amount: 5201
+Shortest path: {0} -- {2317} -- {591} -- {384} -- {2715} -- {3849} -- {3839} -- {5200} -- 
+Graph build time: 7 seconds;
+Execution time: 5 seconds;
+vertices amount: 5301
+Shortest path: {0} -- {4154} -- {3411} -- {1773} -- {3204} -- {853} -- {2471} -- {5300} -- 
+Graph build time: 7 seconds;
+Execution time: 6 seconds;
+vertices amount: 5401
+Shortest path: {0} -- {2891} -- {196} -- {1918} -- {986} -- {3262} -- {5400} -- 
+Graph build time: 8 seconds;
+Execution time: 0 seconds;
+vertices amount: 5501
+Shortest path: {0} -- {5202} -- {3956} -- {4289} -- {5381} -- {309} -- {4797} -- {410} -- {5500} -- 
+Graph build time: 8 seconds;
+Execution time: 7 seconds;
+vertices amount: 5601
+Shortest path: {0} -- {692} -- {4021} -- {966} -- {3116} -- {1574} -- {4171} -- {3563} -- {3270} -- {5600} -- 
+Graph build time: 8 seconds;
+Execution time: 8 seconds;
+vertices amount: 5701
+Shortest path: {0} -- {4447} -- {2300} -- {96} -- {5342} -- {4271} -- {3916} -- {1279} -- {5700} -- 
+Graph build time: 8 seconds;
+Execution time: 7 seconds;
+vertices amount: 5801
+Shortest path: {0} -- {3021} -- {1291} -- {1097} -- {1765} -- {3827} -- {1590} -- {5800} -- 
+Graph build time: 9 seconds;
+Execution time: 8 seconds;
+vertices amount: 5901
+Shortest path: {0} -- {3583} -- {4526} -- {4316} -- {1439} -- {668} -- {3133} -- {5900} -- 
+Graph build time: 10 seconds;
+Execution time: 4 seconds;
+vertices amount: 6001
+Shortest path: {0} -- {4047} -- {1600} -- {5343} -- {5277} -- {1370} -- {4924} -- {3494} -- {1297} -- {6000} -- 
+Graph build time: 10 seconds;
+Execution time: 1 seconds;
+vertices amount: 6101
+Shortest path: {0} -- {470} -- {1391} -- {3501} -- {3260} -- {4664} -- {5450} -- {4448} -- {4486} -- {2133} -- {2226} -- {6100} -- 
+Graph build time: 10 seconds;
+Execution time: 8 seconds;
+vertices amount: 6201
+Shortest path: {0} -- {4423} -- {5380} -- {761} -- {4260} -- {2518} -- {6200} -- 
+Graph build time: 10 seconds;
+Execution time: 7 seconds;
+vertices amount: 6301
+Shortest path: {0} -- {3725} -- {2513} -- {144} -- {1838} -- {4413} -- {4632} -- {2130} -- {1877} -- {484} -- {6300} -- 
+Graph build time: 10 seconds;
+Execution time: 11 seconds;
+vertices amount: 6401
+Shortest path: {0} -- {4981} -- {5765} -- {5563} -- {5046} -- {1557} -- {3858} -- {6400} -- 
+Graph build time: 11 seconds;
+Execution time: 2 seconds;
+vertices amount: 6501
+Shortest path: {0} -- {83} -- {5208} -- {3500} -- {5667} -- {772} -- {3122} -- {3536} -- {6500} -- 
+Graph build time: 11 seconds;
+Execution time: 9 seconds;
+vertices amount: 6601
+Shortest path: {0} -- {4930} -- {3218} -- {6600} -- 
+Graph build time: 11 seconds;
+Execution time: 4 seconds;
+vertices amount: 6701
+Shortest path: {0} -- {6539} -- {4385} -- {2048} -- {1200} -- {5935} -- {4083} -- {2739} -- {1182} -- {2078} -- {1870} -- {6594} -- {3541} -- {5598} -- {6700} -- 
+Graph build time: 12 seconds;
+Execution time: 11 seconds;
+vertices amount: 6801
+Shortest path: {0} -- {3258} -- {98} -- {703} -- {1084} -- {6800} -- 
+Graph build time: 12 seconds;
+Execution time: 4 seconds;
+vertices amount: 6901
+Shortest path: {0} -- {4606} -- {5927} -- {3535} -- {1016} -- {4685} -- {3919} -- {2580} -- {6900} -- 
+Graph build time: 13 seconds;
+Execution time: 3 seconds;
+vertices amount: 7001
+Shortest path: {0} -- {4006} -- {217} -- {5863} -- {740} -- {4041} -- {7000} -- 
+Graph build time: 13 seconds;
+Execution time: 9 seconds;
+vertices amount: 7101
+Shortest path: {0} -- {1318} -- {208} -- {255} -- {1332} -- {955} -- {4560} -- {7100} -- 
+Graph build time: 13 seconds;
+Execution time: 2 seconds;
+vertices amount: 7201
+Shortest path: {0} -- {1716} -- {6681} -- {1722} -- {1145} -- {6153} -- {7200} -- 
+Graph build time: 14 seconds;
+Execution time: 4 seconds;
+vertices amount: 7301
+Shortest path: {0} -- {1118} -- {4467} -- {7143} -- {3502} -- {4888} -- {7300} -- 
+Graph build time: 14 seconds;
+Execution time: 7 seconds;
+vertices amount: 7401
+Shortest path: {0} -- {3303} -- {1147} -- {5131} -- {2550} -- {1716} -- {3624} -- {7080} -- {6512} -- {3947} -- {4308} -- {6508} -- {7400} -- 
+Graph build time: 15 seconds;
+Execution time: 4 seconds;
+vertices amount: 7501
+Shortest path: {0} -- {7035} -- {2471} -- {6925} -- {4023} -- {1343} -- {4314} -- {6275} -- {5144} -- {7500} -- 
+Graph build time: 15 seconds;
+Execution time: 2 seconds;
+vertices amount: 7601
+Shortest path: {0} -- {5448} -- {1633} -- {1992} -- {4838} -- {4988} -- {1464} -- {4562} -- {7027} -- {7600} -- 
+Graph build time: 14 seconds;
+Execution time: 14 seconds;
+vertices amount: 7701
+Shortest path: {0} -- {32} -- {3441} -- {2264} -- {2535} -- {5461} -- {2325} -- {536} -- {6256} -- {2270} -- {7656} -- {4962} -- {7700} -- 
+Graph build time: 15 seconds;
+Execution time: 7 seconds;
+vertices amount: 7801
+Shortest path: {0} -- {586} -- {4615} -- {750} -- {7666} -- {1278} -- {6976} -- {6551} -- {5892} -- {2610} -- {5659} -- {5778} -- {6328} -- {4194} -- {1001} -- {7800} -- 
+Graph build time: 16 seconds;
+Execution time: 8 seconds;
+vertices amount: 7901
+Shortest path: {0} -- {7377} -- {4153} -- {7257} -- {7900} -- 
+Graph build time: 16 seconds;
+Execution time: 14 seconds;
+vertices amount: 8001
+Shortest path: {0} -- {3069} -- {3938} -- {7324} -- {2979} -- {307} -- {4342} -- {8000} -- 
+Graph build time: 17 seconds;
+Execution time: 11 seconds;
+vertices amount: 8101
+Shortest path: {0} -- {7679} -- {5037} -- {517} -- {2817} -- {3191} -- {4205} -- {4774} -- {7672} -- {4283} -- {8100} -- 
+Graph build time: 17 seconds;
+Execution time: 16 seconds;
+vertices amount: 8201
+Shortest path: {0} -- {1292} -- {2364} -- {4667} -- {4102} -- {1185} -- {4349} -- {8200} -- 
+Graph build time: 37 seconds;
+Execution time: 2 seconds;
+vertices amount: 8301
+Shortest path: {0} -- {4747} -- {4708} -- {2247} -- {5269} -- {8300} -- 
+Graph build time: 20 seconds;
+Execution time: 0 seconds;
+vertices amount: 8401
+Shortest path: {0} -- {1954} -- {3047} -- {4626} -- {1220} -- {5469} -- {4214} -- {1368} -- {8400} -- 
+Graph build time: 19 seconds;
+Execution time: 4 seconds;
+vertices amount: 8501
+Shortest path: {0} -- {2411} -- {6392} -- {1486} -- {5289} -- {1204} -- {1678} -- {6559} -- {8500} -- 
+Graph build time: 20 seconds;
+Execution time: 12 seconds;
+vertices amount: 8601
+Shortest path: {0} -- {2066} -- {5093} -- {6221} -- {4099} -- {1643} -- {8600} -- 
+Graph build time: 20 seconds;
+Execution time: 10 seconds;
+vertices amount: 8701
+Shortest path: {0} -- {5440} -- {1721} -- {7883} -- {5951} -- {3797} -- {6626} -- {8700} -- 
+Graph build time: 21 seconds;
+Execution time: 5 seconds;
+vertices amount: 8801
+Shortest path: {0} -- {88} -- {2270} -- {2262} -- {8800} -- 
+Graph build time: 21 seconds;
+Execution time: 4 seconds;
+vertices amount: 8901

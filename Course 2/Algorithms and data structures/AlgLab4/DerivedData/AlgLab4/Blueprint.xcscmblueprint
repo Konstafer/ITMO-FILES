@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "537A2317D7FA2564556140A9DB2775EF5B4112F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "537A2317D7FA2564556140A9DB2775EF5B4112F1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "27F3CA4A-1DB2-4116-900F-8B12C11F5B3C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "537A2317D7FA2564556140A9DB2775EF5B4112F1" : "ITMO-FILES\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AlgLab4",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Course 2\/Algorithms and data structures\/AlgLab4\/AlgLab4.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Konstafer\/ITMO-FILES.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "537A2317D7FA2564556140A9DB2775EF5B4112F1"
+    }
+  ]
+}

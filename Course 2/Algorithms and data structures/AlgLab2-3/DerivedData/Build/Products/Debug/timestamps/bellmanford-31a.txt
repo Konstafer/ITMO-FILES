@@ -1,0 +1,5 @@
+
+vertices amount: 1
+Shortest path: none
+Graph build time: 0 seconds;
+Execution time: 0 seconds;

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "6a23466c83fdee1eaa5a0e2bd0ad39b4"
+build_time: [1507202602, 841567000]
+inputs:
+  "/Users/konstafer/ITMO-FILES/Watermark/Watermark/ViewController.swift": [1507202602, 0]
+  "/Users/konstafer/ITMO-FILES/Watermark/Watermark/AppDelegate.swift": [1507052614, 0]

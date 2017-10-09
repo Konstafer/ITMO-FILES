@@ -22,7 +22,7 @@ echo "/Users/konstafer/Documents/ITMO-FILES/Course\ 2/System\ software/Lab1/Deri
 echo "out.txt's content is: "
 cat /Users/konstafer/Documents/ITMO-FILES/Course\ 2/System\ software/Lab1/Lab1/out.txt
 
-echo "/Users/konstafer/Documents/ITMO-FILES/Course\ 2/System\ software/Lab1/DerivedData/Lab1/Build/Products/Debug/Lab1 --posix in.txt out.txt"
+echo "/Users/konstafer/Documents/ITMO-FILES/Course\ 2/System\ software/Lab1/DerivedData/Lab1/Build/Products/Debug/Lab1 --sendfile in.txt out.txt"
 /Users/konstafer/Documents/ITMO-FILES/Course\ 2/System\ software/Lab1/DerivedData/Lab1/Build/Products/Debug/Lab1 --posix /Users/konstafer/Documents/ITMO-FILES/Course\ 2/System\ software/Lab1/Lab1/in.txt /Users/konstafer/Documents/ITMO-FILES/Course\ 2/System\ software/Lab1/Lab1/out.txt
 echo "out.txt's content is: "
 cat /Users/konstafer/Documents/ITMO-FILES/Course\ 2/System\ software/Lab1/Lab1/out.txt

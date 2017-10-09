@@ -19,7 +19,6 @@
 using namespace std;
 
 int getDescriptorsCount(int p_id) {
-    // It's not my shitty code. And i am fill of SPO-hatred to waste time refactoring this
     DIR *dp;
     int i = 0;
     struct dirent* ep;

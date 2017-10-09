@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "537A2317D7FA2564556140A9DB2775EF5B4112F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "537A2317D7FA2564556140A9DB2775EF5B4112F1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0B2ACCE4-0E25-45DD-AAB6-63BD6DD96292",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "537A2317D7FA2564556140A9DB2775EF5B4112F1" : "ITMO-FILES\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Watermark",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Watermark\/Watermark.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Konstafer\/ITMO-FILES.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "537A2317D7FA2564556140A9DB2775EF5B4112F1"
+    }
+  ]
+}
