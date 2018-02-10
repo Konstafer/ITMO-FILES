@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "537A2317D7FA2564556140A9DB2775EF5B4112F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "537A2317D7FA2564556140A9DB2775EF5B4112F1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D537DF07-8DC3-4D36-9A33-574E6D4B67FE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "537A2317D7FA2564556140A9DB2775EF5B4112F1" : "ITMO-FILES\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "InterfacesLab5",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Course 3\/Interfaces\/InterfacesLab5\/InterfacesLab5.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Konstafer\/ITMO-FILES.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "537A2317D7FA2564556140A9DB2775EF5B4112F1"
+    }
+  ]
+}

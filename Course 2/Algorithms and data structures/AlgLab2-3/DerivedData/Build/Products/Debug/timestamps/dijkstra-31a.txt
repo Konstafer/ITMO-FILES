@@ -5,3 +5,13 @@ Graph build time: 0 seconds;
 Execution time: 0 seconds;
 
 vertices amount: 101
+Shortest path: {0} -- {78} -- {20} -- {85} -- {100} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+vertices amount: 201
+Shortest path: {0} -- {130} -- {200} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+vertices amount: 301

@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/konstafer/ITMO-FILES/Course 3/Interfaces/InterfacesLab6/DerivedData/Build/Products/Debug-iphonesimulator/Radio.app/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Radio-Swift.h",
+          'external-contents': "/Users/konstafer/ITMO-FILES/Course 3/Interfaces/InterfacesLab6/DerivedData/Build/Products/Debug-iphonesimulator/Radio.app/Headers/Radio-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/konstafer/ITMO-FILES/Course 3/Interfaces/InterfacesLab6/DerivedData/Build/Products/Debug-iphonesimulator/Radio.app/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/konstafer/ITMO-FILES/Course 3/Interfaces/InterfacesLab6/DerivedData/Build/Intermediates/Radio.build/Debug-iphonesimulator/Radio.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

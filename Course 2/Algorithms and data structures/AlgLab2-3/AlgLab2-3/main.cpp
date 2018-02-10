@@ -103,7 +103,6 @@ void runAllTests() {
 
 void runAlgorithm(map<string, int> options) {
     GraphBuilder builder(options["vertexAmount"]);
-    
     time_t buildTime = time(nullptr);
     if (options["directed"] == 1)
         builder.generateRandomDirectedGraph(options["vertexAmount"], options["edgesAmount"], options["minWeight"], options["maxWeight"]);

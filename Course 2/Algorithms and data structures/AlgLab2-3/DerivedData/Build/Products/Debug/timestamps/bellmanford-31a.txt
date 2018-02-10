@@ -3,3 +3,13 @@ vertices amount: 1
 Shortest path: none
 Graph build time: 0 seconds;
 Execution time: 0 seconds;
+
+vertices amount: 101
+Shortest path: {0} -- {82} -- {20} -- {24} -- {100} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+vertices amount: 201
+Shortest path: {0} -- {16} -- {118} -- {187} -- {103} -- {200} -- 
+Graph build time: 0 seconds;
+Execution time: 0 seconds;

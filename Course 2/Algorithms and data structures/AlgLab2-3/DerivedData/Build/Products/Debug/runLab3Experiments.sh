@@ -1,7 +1,7 @@
 #!/bin/bash 
 
-if [ ! -f "./GraphAlgorithms" ]; then
-	echo "Cannot find GraphAlgorithms executable in current directory ^("
+if [ ! -f "./AlgLab2-3" ]; then
+	echo "Cannot find AlgLab2-3 executable in current directory ^("
 	exit 1
 fi
 if [ ! -d "./timestamps" ]; then
@@ -31,10 +31,10 @@ do
 	edgesAmount=$[(verticesAmount**2)/10]
 
 	printf "\nGenerated vertices amount: %s\nGenerated edges amount: %s\n" "$verticesAmount" "$edgesAmount" | tee -a timestamps/prim-31a.txt | more
-	./GraphAlgorithms run --algorithm prim --directed 0 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight | tee -a timestamps/prim-31a.txt | more
+	./AlgLab2-3 run --algorithm prim --directed 0 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight | tee -a timestamps/prim-31a.txt | more
 
 	printf "\nGenerated vertices amount: %s\nGenerated edges amount: %s\n" "$verticesAmount" "$edgesAmount" | tee -a timestamps/kruskal-31a.txt | more
-	./GraphAlgorithms run --algorithm kruskal --directed 0 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight | tee -a timestamps/kruskal-31a.txt | more
+	./AlgLab2-3 run --algorithm kruskal --directed 0 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight | tee -a timestamps/kruskal-31a.txt | more
 done
 
 # ---------- 3.1.b ----------- #
@@ -54,8 +54,8 @@ do
 	edgesAmount=$[verticesAmount**2]
 
 	printf "\nGenerated vertices amount: %s\nGenerated edges amount: %s\n" "$verticesAmount" "$edgesAmount" | tee -a timestamps/prim-31b.txt | more
-	./GraphAlgorithms run --algorithm prim --directed 0 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight | tee -a timestamps/prim-31b.txt | more
+	./AlgLab2-3 run --algorithm prim --directed 0 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight | tee -a timestamps/prim-31b.txt | more
 
 	printf "\nGenerated vertices amount: %s\nGenerated edges amount: %s\n" "$verticesAmount" "$edgesAmount" | tee -a timestamps/kruskal-31b.txt | more
-	./GraphAlgorithms run --algorithm kruskal --directed 0 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight | tee -a timestamps/kruskal-31b.txt | more
+	./AlgLab2-3 run --algorithm kruskal --directed 0 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight | tee -a timestamps/kruskal-31b.txt | more
 done

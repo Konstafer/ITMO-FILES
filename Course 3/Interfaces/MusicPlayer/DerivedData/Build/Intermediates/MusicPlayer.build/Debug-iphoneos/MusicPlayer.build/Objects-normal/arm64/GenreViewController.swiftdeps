@@ -1,0 +1,452 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GenreViewController"
+provides-nominal:
+- "11MusicPlayer19GenreViewControllerC"
+provides-member:
+- ["11MusicPlayer19GenreViewControllerC", ""]
+provides-dynamic-lookup:
+- "genreButtonTapped"
+- "nextButtonTapped"
+- "stopButtonTapped"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "GenreViewController"
+- !private "MPMediaItemPropertyGenre"
+- !private "MPMediaLibrary"
+- !private "MPMediaPropertyPredicate"
+- !private "MPMediaQuery"
+- "MPMusicPlayerController"
+- "String"
+- "UIButton"
+- "UIViewController"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "currentTitle"]
+- !private ["s7CVarArgP", "MPMediaItemPropertyGenre"]
+- !private ["s7CVarArgP", "MPMediaLibrary"]
+- !private ["s7CVarArgP", "MPMediaPropertyPredicate"]
+- !private ["s7CVarArgP", "MPMediaQuery"]
+- ["s7CVarArgP", "MPMusicPlayerController"]
+- !private ["s7CVarArgP", "addFilterPredicate"]
+- ["s7CVarArgP", "applicationMusicPlayer"]
+- !private ["s7CVarArgP", "currentTitle"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "musicPlayer"]
+- !private ["s7CVarArgP", "play"]
+- !private ["s7CVarArgP", "playGenre"]
+- !private ["s7CVarArgP", "requestAuthorization"]
+- !private ["s7CVarArgP", "setQueue"]
+- !private ["s7CVarArgP", "shuffleMode"]
+- !private ["s7CVarArgP", "skipToNextItem"]
+- !private ["s7CVarArgP", "stop"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "MPMediaItemPropertyGenre"]
+- !private ["s28CustomDebugStringConvertibleP", "MPMediaLibrary"]
+- !private ["s28CustomDebugStringConvertibleP", "MPMediaPropertyPredicate"]
+- !private ["s28CustomDebugStringConvertibleP", "MPMediaQuery"]
+- ["s28CustomDebugStringConvertibleP", "MPMusicPlayerController"]
+- !private ["s28CustomDebugStringConvertibleP", "addFilterPredicate"]
+- ["s28CustomDebugStringConvertibleP", "applicationMusicPlayer"]
+- !private ["s28CustomDebugStringConvertibleP", "currentTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "musicPlayer"]
+- !private ["s28CustomDebugStringConvertibleP", "play"]
+- !private ["s28CustomDebugStringConvertibleP", "playGenre"]
+- !private ["s28CustomDebugStringConvertibleP", "requestAuthorization"]
+- !private ["s28CustomDebugStringConvertibleP", "setQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "shuffleMode"]
+- !private ["s28CustomDebugStringConvertibleP", "skipToNextItem"]
+- !private ["s28CustomDebugStringConvertibleP", "stop"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "MPMediaItemPropertyGenre"]
+- !private ["s23CustomStringConvertibleP", "MPMediaLibrary"]
+- !private ["s23CustomStringConvertibleP", "MPMediaPropertyPredicate"]
+- !private ["s23CustomStringConvertibleP", "MPMediaQuery"]
+- ["s23CustomStringConvertibleP", "MPMusicPlayerController"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addFilterPredicate"]
+- ["s23CustomStringConvertibleP", "applicationMusicPlayer"]
+- !private ["s23CustomStringConvertibleP", "currentTitle"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "musicPlayer"]
+- !private ["s23CustomStringConvertibleP", "play"]
+- !private ["s23CustomStringConvertibleP", "playGenre"]
+- !private ["s23CustomStringConvertibleP", "requestAuthorization"]
+- !private ["s23CustomStringConvertibleP", "setQueue"]
+- !private ["s23CustomStringConvertibleP", "shuffleMode"]
+- !private ["s23CustomStringConvertibleP", "skipToNextItem"]
+- !private ["s23CustomStringConvertibleP", "stop"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "MPMediaItemPropertyGenre"]
+- !private ["s9EquatableP", "MPMediaLibrary"]
+- !private ["s9EquatableP", "MPMediaPropertyPredicate"]
+- !private ["s9EquatableP", "MPMediaQuery"]
+- ["s9EquatableP", "MPMusicPlayerController"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addFilterPredicate"]
+- ["s9EquatableP", "applicationMusicPlayer"]
+- !private ["s9EquatableP", "authorized"]
+- !private ["s9EquatableP", "currentTitle"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "musicPlayer"]
+- !private ["s9EquatableP", "play"]
+- !private ["s9EquatableP", "playGenre"]
+- !private ["s9EquatableP", "requestAuthorization"]
+- !private ["s9EquatableP", "setQueue"]
+- !private ["s9EquatableP", "shuffleMode"]
+- !private ["s9EquatableP", "skipToNextItem"]
+- !private ["s9EquatableP", "songs"]
+- !private ["s9EquatableP", "stop"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["11MusicPlayer19GenreViewControllerC", "MPMediaItemPropertyGenre"]
+- !private ["11MusicPlayer19GenreViewControllerC", "MPMediaLibrary"]
+- !private ["11MusicPlayer19GenreViewControllerC", "MPMediaPropertyPredicate"]
+- !private ["11MusicPlayer19GenreViewControllerC", "MPMediaQuery"]
+- ["11MusicPlayer19GenreViewControllerC", "MPMusicPlayerController"]
+- ["11MusicPlayer19GenreViewControllerC", "String"]
+- ["11MusicPlayer19GenreViewControllerC", "UIButton"]
+- ["11MusicPlayer19GenreViewControllerC", "deinit"]
+- ["11MusicPlayer19GenreViewControllerC", "genreButtonTapped"]
+- ["11MusicPlayer19GenreViewControllerC", "init"]
+- ["11MusicPlayer19GenreViewControllerC", "musicPlayer"]
+- ["11MusicPlayer19GenreViewControllerC", "nextButtonTapped"]
+- ["11MusicPlayer19GenreViewControllerC", "playGenre"]
+- ["11MusicPlayer19GenreViewControllerC", "stopButtonTapped"]
+- ["11MusicPlayer19GenreViewControllerC", "viewDidLoad"]
+- !private ["s8HashableP", "MPMediaItemPropertyGenre"]
+- !private ["s8HashableP", "MPMediaLibrary"]
+- !private ["s8HashableP", "MPMediaPropertyPredicate"]
+- !private ["s8HashableP", "MPMediaQuery"]
+- ["s8HashableP", "MPMusicPlayerController"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addFilterPredicate"]
+- ["s8HashableP", "applicationMusicPlayer"]
+- !private ["s8HashableP", "authorized"]
+- !private ["s8HashableP", "currentTitle"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "musicPlayer"]
+- !private ["s8HashableP", "play"]
+- !private ["s8HashableP", "playGenre"]
+- !private ["s8HashableP", "requestAuthorization"]
+- !private ["s8HashableP", "setQueue"]
+- !private ["s8HashableP", "shuffleMode"]
+- !private ["s8HashableP", "skipToNextItem"]
+- !private ["s8HashableP", "songs"]
+- !private ["s8HashableP", "stop"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So14MPMediaLibraryC", "requestAuthorization"]
+- !private ["SC33MPMediaLibraryAuthorizationStatusO", "authorized"]
+- ["So15MPMediaPlaybackP", "applicationMusicPlayer"]
+- !private ["So15MPMediaPlaybackP", "play"]
+- !private ["So15MPMediaPlaybackP", "setQueue"]
+- !private ["So15MPMediaPlaybackP", "shuffleMode"]
+- !private ["So15MPMediaPlaybackP", "skipToNextItem"]
+- !private ["So15MPMediaPlaybackP", "stop"]
+- !private ["So16MPMediaPredicateC", "init"]
+- !private ["So24MPMediaPropertyPredicateC", "init"]
+- !private ["So12MPMediaQueryC", "addFilterPredicate"]
+- !private ["So12MPMediaQueryC", "init"]
+- ["So23MPMusicPlayerControllerC", "applicationMusicPlayer"]
+- !private ["So23MPMusicPlayerControllerC", "play"]
+- !private ["So23MPMusicPlayerControllerC", "setQueue"]
+- !private ["So23MPMusicPlayerControllerC", "shuffleMode"]
+- !private ["So23MPMusicPlayerControllerC", "skipToNextItem"]
+- !private ["So23MPMusicPlayerControllerC", "stop"]
+- !private ["SC18MPMusicShuffleModeO", "songs"]
+- !private ["So8NSCodingP", "MPMediaItemPropertyGenre"]
+- !private ["So8NSCodingP", "MPMediaLibrary"]
+- !private ["So8NSCodingP", "MPMediaPropertyPredicate"]
+- !private ["So8NSCodingP", "MPMediaQuery"]
+- ["So8NSCodingP", "MPMusicPlayerController"]
+- !private ["So8NSCodingP", "addFilterPredicate"]
+- !private ["So8NSCodingP", "currentTitle"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "musicPlayer"]
+- !private ["So8NSCodingP", "playGenre"]
+- !private ["So8NSCodingP", "requestAuthorization"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "addFilterPredicate"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "MPMediaItemPropertyGenre"]
+- !private ["So26NSExtensionRequestHandlingP", "MPMediaLibrary"]
+- !private ["So26NSExtensionRequestHandlingP", "MPMediaPropertyPredicate"]
+- !private ["So26NSExtensionRequestHandlingP", "MPMediaQuery"]
+- ["So26NSExtensionRequestHandlingP", "MPMusicPlayerController"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "musicPlayer"]
+- !private ["So26NSExtensionRequestHandlingP", "playGenre"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So8NSObjectC", "MPMediaItemPropertyGenre"]
+- !private ["So8NSObjectC", "MPMediaLibrary"]
+- !private ["So8NSObjectC", "MPMediaPropertyPredicate"]
+- !private ["So8NSObjectC", "MPMediaQuery"]
+- ["So8NSObjectC", "MPMusicPlayerController"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "addFilterPredicate"]
+- ["So8NSObjectC", "applicationMusicPlayer"]
+- !private ["So8NSObjectC", "currentTitle"]
+- ["So8NSObjectC", "genreButtonTapped"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "musicPlayer"]
+- ["So8NSObjectC", "nextButtonTapped"]
+- !private ["So8NSObjectC", "play"]
+- ["So8NSObjectC", "playGenre"]
+- !private ["So8NSObjectC", "requestAuthorization"]
+- !private ["So8NSObjectC", "setQueue"]
+- !private ["So8NSObjectC", "shuffleMode"]
+- !private ["So8NSObjectC", "skipToNextItem"]
+- !private ["So8NSObjectC", "stop"]
+- ["So8NSObjectC", "stopButtonTapped"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "MPMediaItemPropertyGenre"]
+- !private ["So16NSObjectProtocolP", "MPMediaLibrary"]
+- !private ["So16NSObjectProtocolP", "MPMediaPropertyPredicate"]
+- !private ["So16NSObjectProtocolP", "MPMediaQuery"]
+- ["So16NSObjectProtocolP", "MPMusicPlayerController"]
+- !private ["So16NSObjectProtocolP", "addFilterPredicate"]
+- ["So16NSObjectProtocolP", "applicationMusicPlayer"]
+- !private ["So16NSObjectProtocolP", "currentTitle"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "musicPlayer"]
+- !private ["So16NSObjectProtocolP", "play"]
+- !private ["So16NSObjectProtocolP", "playGenre"]
+- !private ["So16NSObjectProtocolP", "requestAuthorization"]
+- !private ["So16NSObjectProtocolP", "setQueue"]
+- !private ["So16NSObjectProtocolP", "shuffleMode"]
+- !private ["So16NSObjectProtocolP", "skipToNextItem"]
+- !private ["So16NSObjectProtocolP", "stop"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "addFilterPredicate"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "requestAuthorization"]
+- !private ["s16RawRepresentableP", "authorized"]
+- !private ["s16RawRepresentableP", "songs"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "currentTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "currentTitle"]
+- !private ["So12UIAppearanceP", "currentTitle"]
+- !private ["So21UIAppearanceContainerP", "MPMediaItemPropertyGenre"]
+- !private ["So21UIAppearanceContainerP", "MPMediaLibrary"]
+- !private ["So21UIAppearanceContainerP", "MPMediaPropertyPredicate"]
+- !private ["So21UIAppearanceContainerP", "MPMediaQuery"]
+- ["So21UIAppearanceContainerP", "MPMusicPlayerController"]
+- !private ["So21UIAppearanceContainerP", "currentTitle"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "musicPlayer"]
+- !private ["So21UIAppearanceContainerP", "playGenre"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So8UIButtonC", "currentTitle"]
+- !private ["So18UIContentContainerP", "MPMediaItemPropertyGenre"]
+- !private ["So18UIContentContainerP", "MPMediaLibrary"]
+- !private ["So18UIContentContainerP", "MPMediaPropertyPredicate"]
+- !private ["So18UIContentContainerP", "MPMediaQuery"]
+- ["So18UIContentContainerP", "MPMusicPlayerController"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "musicPlayer"]
+- !private ["So18UIContentContainerP", "playGenre"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So9UIControlC", "currentTitle"]
+- !private ["So17UICoordinateSpaceP", "currentTitle"]
+- !private ["So13UIDynamicItemP", "currentTitle"]
+- !private ["So18UIFocusEnvironmentP", "MPMediaItemPropertyGenre"]
+- !private ["So18UIFocusEnvironmentP", "MPMediaLibrary"]
+- !private ["So18UIFocusEnvironmentP", "MPMediaPropertyPredicate"]
+- !private ["So18UIFocusEnvironmentP", "MPMediaQuery"]
+- ["So18UIFocusEnvironmentP", "MPMusicPlayerController"]
+- !private ["So18UIFocusEnvironmentP", "currentTitle"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "musicPlayer"]
+- !private ["So18UIFocusEnvironmentP", "playGenre"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "currentTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "MPMediaItemPropertyGenre"]
+- !private ["So30UIPasteConfigurationSupportingP", "MPMediaLibrary"]
+- !private ["So30UIPasteConfigurationSupportingP", "MPMediaPropertyPredicate"]
+- !private ["So30UIPasteConfigurationSupportingP", "MPMediaQuery"]
+- ["So30UIPasteConfigurationSupportingP", "MPMusicPlayerController"]
+- !private ["So30UIPasteConfigurationSupportingP", "currentTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "musicPlayer"]
+- !private ["So30UIPasteConfigurationSupportingP", "playGenre"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "MPMediaItemPropertyGenre"]
+- !private ["So11UIResponderC", "MPMediaLibrary"]
+- !private ["So11UIResponderC", "MPMediaPropertyPredicate"]
+- !private ["So11UIResponderC", "MPMediaQuery"]
+- ["So11UIResponderC", "MPMusicPlayerController"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "currentTitle"]
+- ["So11UIResponderC", "genreButtonTapped"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "musicPlayer"]
+- ["So11UIResponderC", "nextButtonTapped"]
+- ["So11UIResponderC", "playGenre"]
+- ["So11UIResponderC", "stopButtonTapped"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "MPMediaItemPropertyGenre"]
+- !private ["So30UIResponderStandardEditActionsP", "MPMediaLibrary"]
+- !private ["So30UIResponderStandardEditActionsP", "MPMediaPropertyPredicate"]
+- !private ["So30UIResponderStandardEditActionsP", "MPMediaQuery"]
+- ["So30UIResponderStandardEditActionsP", "MPMusicPlayerController"]
+- !private ["So30UIResponderStandardEditActionsP", "currentTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "musicPlayer"]
+- !private ["So30UIResponderStandardEditActionsP", "playGenre"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "currentTitle"]
+- !private ["So16UIStateRestoringP", "MPMediaItemPropertyGenre"]
+- !private ["So16UIStateRestoringP", "MPMediaLibrary"]
+- !private ["So16UIStateRestoringP", "MPMediaPropertyPredicate"]
+- !private ["So16UIStateRestoringP", "MPMediaQuery"]
+- ["So16UIStateRestoringP", "MPMusicPlayerController"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "musicPlayer"]
+- !private ["So16UIStateRestoringP", "playGenre"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "MPMediaItemPropertyGenre"]
+- !private ["So18UITraitEnvironmentP", "MPMediaLibrary"]
+- !private ["So18UITraitEnvironmentP", "MPMediaPropertyPredicate"]
+- !private ["So18UITraitEnvironmentP", "MPMediaQuery"]
+- ["So18UITraitEnvironmentP", "MPMusicPlayerController"]
+- !private ["So18UITraitEnvironmentP", "currentTitle"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "musicPlayer"]
+- !private ["So18UITraitEnvironmentP", "playGenre"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "currentTitle"]
+- !private ["So16UIViewControllerC", "MPMediaItemPropertyGenre"]
+- !private ["So16UIViewControllerC", "MPMediaLibrary"]
+- !private ["So16UIViewControllerC", "MPMediaPropertyPredicate"]
+- !private ["So16UIViewControllerC", "MPMediaQuery"]
+- ["So16UIViewControllerC", "MPMusicPlayerController"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "genreButtonTapped"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "musicPlayer"]
+- ["So16UIViewControllerC", "nextButtonTapped"]
+- ["So16UIViewControllerC", "playGenre"]
+- ["So16UIViewControllerC", "stopButtonTapped"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "currentTitle"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MPMediaItemPropertyGenre"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MPMediaLibrary"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MPMediaPropertyPredicate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MPMediaQuery"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "MPMusicPlayerController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addFilterPredicate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "applicationMusicPlayer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "musicPlayer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "play"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "playGenre"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "requestAuthorization"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setQueue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shuffleMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "skipToNextItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stop"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "11MusicPlayer19GenreViewControllerC"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "So14MPMediaLibraryC"
+- !private "SC33MPMediaLibraryAuthorizationStatusO"
+- "So15MPMediaPlaybackP"
+- !private "So16MPMediaPredicateC"
+- !private "So24MPMediaPropertyPredicateC"
+- !private "So12MPMediaQueryC"
+- "So23MPMusicPlayerControllerC"
+- !private "SC18MPMusicShuffleModeO"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "s16RawRepresentableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/MediaPlayer.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "df2fb17694401ddc0b43c5f1e08bc5d9"

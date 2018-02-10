@@ -1,0 +1,56 @@
+
+Generated vertices amount: 1
+Generated edges amount: 0
+MST's vertexes count: 1
+MST's edges count: 0
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+Generated vertices amount: 101
+Generated edges amount: 1020
+MST's vertexes count: 101
+MST's edges count: 200
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+Generated vertices amount: 201
+Generated edges amount: 4040
+MST's vertexes count: 201
+MST's edges count: 400
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+Generated vertices amount: 301
+Generated edges amount: 9060
+MST's vertexes count: 301
+MST's edges count: 600
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+Generated vertices amount: 401
+Generated edges amount: 16080
+MST's vertexes count: 401
+MST's edges count: 800
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+Generated vertices amount: 501
+Generated edges amount: 25100
+MST's vertexes count: 501
+MST's edges count: 1000
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+Generated vertices amount: 601
+Generated edges amount: 36120
+MST's vertexes count: 601
+MST's edges count: 1200
+Graph build time: 0 seconds;
+Execution time: 0 seconds;
+
+Generated vertices amount: 701
+Generated edges amount: 49140
+MST's vertexes count: 701
+MST's edges count: 1400
+Graph build time: 0 seconds;
+Execution time: 0 seconds;

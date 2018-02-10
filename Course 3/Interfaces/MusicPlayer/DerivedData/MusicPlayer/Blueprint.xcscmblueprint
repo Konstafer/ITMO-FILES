@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "537A2317D7FA2564556140A9DB2775EF5B4112F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "537A2317D7FA2564556140A9DB2775EF5B4112F1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ED88A007-87EA-486F-9C56-4D5C125A9852",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "537A2317D7FA2564556140A9DB2775EF5B4112F1" : "ITMO-FILES\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MusicPlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Course 3\/Interfaces\/MusicPlayer\/MusicPlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Konstafer\/ITMO-FILES.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "537A2317D7FA2564556140A9DB2775EF5B4112F1"
+    }
+  ]
+}

@@ -26,10 +26,10 @@ maxWeight=$[10**6]
 for ((verticesAmount = 1; verticesAmount < (10**4)+1; verticesAmount += 100))
 do
 	edgesAmount=$[(verticesAmount**2)/10]
-
+    printf "\nEdges: %s" "$edgesAmount"
 	printf "\nvertices amount: %s\n" "$verticesAmount" | tee -a timestamps/dijkstra-31a.txt | more
 	./AlgLab2-3 run --algorithm dijkstra --directed 1 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight --start 0 --finish $[verticesAmount-1] | tee -a timestamps/dijkstra-31a.txt | more
-
+    printf "\nEdges: %s" "$edgesAmount"
 	printf "\nvertices amount: %s\n" "$verticesAmount" | tee -a timestamps/bellmanford-31a.txt | more
 	./AlgLab2-3 run --algorithm bellman-ford --directed 1 -va $verticesAmount -ea $edgesAmount -min $minWeight -max $maxWeight --start 0 --finish $[verticesAmount-1] | tee -a timestamps/bellmanford-31a.txt | more
 done
