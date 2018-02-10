@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
-options: "3dc0df61ae2e5dd5cb6a5f36284c1c81"
-build_time: [1512750559, 792169000]
+options: "276106280b850794d5b1b2471223a8d1"
+build_time: [1518174110, 493014000]
 inputs:
   "/Users/konstafer/ITMO-FILES/Course 3/Interfaces/MusicPlayer/MusicPlayer/GenreViewController.swift": [1512750559, 0]
   "/Users/konstafer/ITMO-FILES/Course 3/Interfaces/MusicPlayer/MusicPlayer/AppDelegate.swift": [1512740603, 0]
